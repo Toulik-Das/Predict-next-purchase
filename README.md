@@ -1,12 +1,10 @@
 # Predicting a customer's next purchase using automated feature engineering
 
-<a style="margin:30px" href="https://www.featuretools.com">
-    <img width=50% src="https://www.featuretools.com/wp-content/uploads/2017/12/FeatureLabs-Logo-Tangerine-800.png" alt="Featuretools" />
-</a>
+
 
 **As customers use your product, they leave behind a trail of behaviors that indicate how they will act in the future. Through automated feature engineering we can identify the predictive patterns in granular customer behavioral data that can be used to improve the customer's experience and generate additional revenue for your business.**
 
-In this tutorial, we show how [Featuretools](https://www.featuretools.com) can be used to perform feature engineering on a multi-table dataset of 3 million online grocery orders provided by Instacart to train an accurate machine learning model to predict what product a customer buys next.
+In this tutorial, we show how  can be used to perform feature engineering on a multi-table dataset of 3 million online grocery orders provided by Instacart to train an accurate machine learning model to predict what product a customer buys next.
 
 *Note: If you are running this notebook yourself, refer to the read me on Github for instructions to download the Instacart dataset*
 
@@ -25,7 +23,7 @@ In this tutorial, we show how [Featuretools](https://www.featuretools.com) can b
     pip install -r requirements.txt
     ```
     
-    *You will also need to install **graphviz** for this demo. Please install graphviz according to the instructions in the [Featuretools Documentation](https://docs.featuretools.com/getting_started/install.html)*
+    *You will also need to install **graphviz** for this demo. Please install graphviz .
     
 2. Download the data
 
@@ -44,13 +42,6 @@ In this tutorial, we show how [Featuretools](https://www.featuretools.com) can b
     ```
     jupyter notebook
     ```
-
-## Feature Labs
-<a href="https://www.featurelabs.com/">
-    <img src="http://www.featurelabs.com/wp-content/uploads/2017/12/logo.png" alt="Featuretools" />
-</a>
-
-Featuretools is an open source project created by [Feature Labs](https://www.featurelabs.com/). To see the other open source projects we're working on visit Feature Labs [Open Source](https://www.featurelabs.com/open). If building impactful data science pipelines is important to you or your business, please [get in touch](https://www.featurelabs.com/contact).
 
 ### Contact
 
